@@ -1,8 +1,8 @@
-let option1 = "cat";
-let option2 = "dog";
+let option1 = "apple";
+let option2 = "orange";
 if (option1) {
-console.log("Hello Cat")
+console.log("Hello Orchard")
 } else {
-	console.log("Hello Dog")
+	console.log("Hello Grove")
 }
 
