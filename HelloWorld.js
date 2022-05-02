@@ -5,5 +5,5 @@ console.log("Hello Orchard")
 } else {
 	console.log("Hello Grove")
 }
-console.log(`Like comparing ${option1} and ${option2}.`)
+alert(`Like comparing ${option1} and ${option2}.`)
 
